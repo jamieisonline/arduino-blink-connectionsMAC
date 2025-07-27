@@ -1,7 +1,9 @@
 # arduino-blink-connectionsMAC
- Arduino Basic Information and tester
+ Arduino tester files.
  
- Blink for led
+ using arduino nano 33
+ 
+ Blink for led test
  
  Bluetooth ino file returns the embedded bluetooth mac address in serial monitor
  
